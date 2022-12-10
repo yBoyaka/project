@@ -1,0 +1,415 @@
+HTML Part 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Madrasty</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- start header section  -->
+    <div class="header">
+      <div class="container">
+          <div class="row">
+            <!-- start navbar section  -->
+              <div class="col-md-12">
+                  <nav class="navbar navbar-expand-lg navbar-dark bg-transparent">
+                      <a class="navbar-brand" href="#">
+                          <img src="img/mad.png" alt="">
+                      </a>
+                      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                      </button>
+                    
+                      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav m-auto" >
+                          <li class="nav-item active mr-3">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                          </li>
+                          <li class="nav-item mr-3">
+                            <a class="nav-link" href="#">About</a>
+                          </li>
+                          <li class="nav-item mr-3">
+                            <a class="nav-link" href="#">Affairs</a>
+                          </li>
+                          <li class="nav-item mr-3">
+                            <a class="nav-link" href="#">Subject</a>
+                          </li>
+                        </ul>
+                        <form class="form-inline my-2 my-lg-0">
+                          
+                          <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Log in</button>
+                        </form>
+                      </div>
+                    </nav>
+              </div>
+            <!-- end navbar section  -->
+
+            <div class="col-md-4 h-caption rounded mt-5">
+              <h5 class="header-caption">
+                Always laugh When You can,it is free medicine
+              </h5>
+            </div>
+          </div>
+      </div>
+    </div>
+  <!-- end header section  -->
+
+  <!-- start school clinc section  -->
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12 text-center mt-4 mb-4 school-clinic">
+
+          <h2>School Clinic</h2>
+
+          <hr>
+
+        </div>
+
+        <div class="col-md-6 mt-5">
+        
+          <img src="img/compo.png" alt="" class=" clinic-img">
+        
+        </div>
+
+        <div class="col-md-6 mt-5 clinic-services d-flex flex-column justify-content-center align-items-start text-capitalize">
+          <h3>The School Clinic Services</h3>
+          <h5>conducting periodic checks for students. implementing vaccination programs to preventdiseases, according to the instructions of the ministry of health. follow-up of sick cases and contact with parents to attend if the case requires. providing a healthy environment in the school community</h5>
+        </div>
+        
+      </div>
+
+    </div>
+
+  <!-- end school clinc section  -->
+
+  <!-- start card section  -->
+  <div class="school-cards">
+    <div class="container-fluid">
+
+      <div class="row">
+
+        <div class="col-md-12 mt-5 text-center">
+          <h2 class="text-light">
+            Don't Hestegate to be in touch
+          </h2>
+        </div>
+        
+
+        <div class="col-md-3 card-out d-flex justify-content-center align-items-center">
+
+          <div class="card-in">
+
+            <img src="img/s1.png" alt="" class="img-fluid">
+            <h4>First Aids</h4>
+            <h5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium voluptatibus laboriosam ratione laudantium enim modi voluptate pariatur dicta facilis reiciendis.</h5>
+
+        </div>
+
+      </div>
+
+        
+          
+          <div class="col-md-3 card-out">
+
+              <div class="card-in">
+
+                <img src="img/s2.png" alt="" class="img-fluid">
+                <h4>Health Education</h4>
+                <h5>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, reiciendis. Sequi quasi quibusdam facilis laborum!</h5>
+
+            </div>
+
+          </div>
+        
+        
+
+          <div class="col-md-3 card-out">
+
+            <div class="card-in">
+
+              <img src="img/s3.png" alt="" class="img-fluid">
+              <h4>Dental Health and safety</h4>
+              <h5>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure quaerat adipisci sint, labore incidunt ullam.</h5>
+
+          </div>
+
+        </div>
+
+        <div class="col-md-3 card-out">
+
+          <div class="card-in">
+
+            <img src="img/s4.png" alt="" class="img-fluid">
+            <h4>student insurance</h4>
+            <h5>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam aperiam rem eligendi numquam officiis ea.</h5>
+
+        </div>
+
+      </div>
+
+        
+      
+      </div>
+    
+    </div>
+
+  </div>
+  <!-- end card section  -->
+
+  <!-- start doctors section  -->
+  <div class="container mt-5">
+    
+    <div class="row">
+
+      <div class="col-md-3">
+        <img src="img/Group 182.png" alt="" class="doctors">
+      </div>
+
+      <div class="col-md-3">
+        <img src="img/Group 182.png" alt="" class="doctors">
+      </div>
+
+      <div class="col-md-3">
+        <img src="img/Group 182.png" alt="" class="doctors">
+      </div>
+
+      <div class="col-md-3">
+        <img src="img/Group 182.png" alt="" class="doctors">
+      </div>
+    
+    </div>
+  
+  </div>
+
+  <!-- end doctors section  -->
+
+  <!-- start footer section  -->
+  <div class="footer">
+
+    
+    <div class="container">
+    
+      <div class="row">
+    
+        <div class="col-md-6 text-center text-light">
+          <h2 class="mb-4 font-weight-bold">Madrasty</h2>
+          <h6>The best collection of international schools for all students in all different ages from six years to 15 years old</h6>
+        </div>
+
+        <div class="col-md-2">
+          <h3>Student</h3>
+          <ul type="none" class="text-light">
+            <li class="mb-4 mt-4">Result</li>
+            <li class="mb-4">Exams</li>
+            <li class="mb-4">Quizes</li>
+            <li class="">Courses</li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <h3>News</h3>
+          <ul type="none" class="text-light">
+            <li class="mb-4 mt-4">Uniform</li>
+            <li class="mb-4">Capion</li>
+            <li >Tables</li>
+          </ul>
+        </div>
+
+        <div class="col-md-2">
+          <h3>Contact</h3>
+          <ul type="none" class="text-light">
+            <li class="mb-4 mt-4">2033500394</li>
+            <li >Or32@yahoo.com</li>
+            
+          </ul>
+        </div>
+    
+      </div>
+    
+    </div>
+  
+  </div>
+
+
+
+  <!-- end footer section  -->
+
+
+
+
+
+
+    <script src="js/jquery.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
+CSS Part
+
+body {
+    font-family: cursive;
+}
+
+/* start header style  */
+
+.header {
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/download.jpg);
+    background-size: cover;
+}
+
+
+
+/* sart navbar style  */
+nav {
+    max-width: 80%;
+
+}
+
+nav img {
+    width: 140px;
+    height: 110px;
+}
+
+nav form input {
+    background-color: #ed7c6a !important;
+    color: antiquewhite !important;
+}
+
+nav ul li a {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+nav ul li a:hover {
+    color: grey !important;
+}
+/* end navbar style  */
+
+.h-caption {
+    background-color: #62a58e;
+    height: 350px;
+    word-spacing: 8px;
+    padding: 2.5%;
+    border-radius: 2.25rem !important;
+}
+
+.header-caption {
+    font-size: 50px !important;
+    color: aliceblue;
+    line-height: 1.5;
+    
+}
+
+
+/* end header style  */
+
+/* start school clinc section style  */
+
+.school-clinic h2 {
+    font-weight: bold;
+    color: #074d4c;
+}
+
+.school-clinic hr {
+    height: 5px;
+    width: 18%;
+    background-color: #e98317;
+}
+
+.clinic-services h3 {
+    color: #439da5;
+}
+
+.clinic-img {
+    max-width: 85% !important;
+}
+
+/* end school clinc section style  */
+
+/* start cards style  */
+
+.school-cards {
+    margin-top: 100px;
+    background: url(../img/Path\ 62.png),url(../img/i-love-my-job-so-much_329181-2178.png);
+    background-size: cover;
+    height: 750px;
+}
+.card-out {
+    margin-top: 100px;
+}
+
+.card-in{
+    background-color: #fff;
+    height: 400px;
+    padding: 15%;
+    border-radius: 20px;
+}
+
+.card-in h4 {
+    /* font-weight: bold; */
+    font-size: 18px;
+    word-spacing: 0px;
+    color: #439da5;
+}
+
+.card-in h5 {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+    color: #7c7b7b;
+}
+
+.card-in img {
+    height: 140px;
+    margin-bottom: 20px;
+}
+
+/* end cards style  */
+
+/* start doctors section  */
+
+.doctors {
+    max-width: 70%;
+}
+
+/* end doctors section  */
+
+
+/* start footer section  */
+.footer {
+    margin-top: 120px;
+    height: 400px;
+    padding-top: 70px;
+    background-color: #0f7b65;
+    border-radius: 200px 200px 0px 0px;
+}
+
+.footer h6 {
+    font-size: 16px;
+    text-transform: capitalize;
+    line-height: 1.5;
+}
+
+.footer h3 {
+    color: #f48e76;
+}
+
+.footer ul li {
+    text-indent: -35px;
+}
+
+
+/* end footer section  */

@@ -1,0 +1,158 @@
+
+body {
+    font-family: cursive;
+}
+
+/* start header style  */
+
+.header {
+    width: 100%;
+    height: 600px;
+    background-image: url(IMG/IMG-20221206-WA0016.jpg);
+    background-size: cover;
+}
+
+
+
+/* sart navbar style  */
+nav {
+    max-width: 80%;
+
+}
+
+nav img {
+    width: 140px;
+    height: 110px;
+}
+
+nav form input {
+    background-color: #ed7c6a !important;
+    color: antiquewhite !important;
+}
+
+nav ul li a {
+    font-size: 20px;
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+nav ul li a:hover {
+    color: grey !important;
+}
+/* end navbar style  */
+
+.h-caption {
+    background-color: #62a58e;
+    height: 350px;
+    word-spacing: 8px;
+    padding: 2.5%;
+    border-radius: 2.25rem !important;
+}
+
+.header-caption {
+    font-size: 50px !important;
+    color: aliceblue;
+    line-height: 1.5;
+    
+}
+
+
+/* end header style  */
+
+/* start school clinc section style  */
+
+.school-clinic h2 {
+    font-weight: bold;
+    color: #074d4c;
+}
+
+.school-clinic hr {
+    height: 5px;
+    width: 18%;
+    background-color: #e98317;
+}
+
+.clinic-services h3 {
+    color: #439da5;
+}
+
+.clinic-img {
+    max-width: 85% !important;
+}
+
+/* end school clinc section style  */
+
+/* start cards style  */
+
+
+.school-cards {
+    margin-top: 100px;
+    background: url(IMG/Path\ 62.png),url(IMG/IMG-20221206-WA0004.jpg);
+    background-size: cover;
+    height: 750px;
+}
+.card-out {
+    margin-top: 100px;
+}
+
+.card-in{
+    background-color: #fff;
+    height: 400px;
+    padding: 15%;
+    border-radius: 20px;
+}
+
+.card-in h4 {
+    /* font-weight: bold; */
+    font-size: 18px;
+    word-spacing: 0px;
+    color: #439da5;
+}
+
+.card-in h5 {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+    color: #7c7b7b;
+}
+
+.card-in img {
+    height: 140px;
+    margin-bottom: 20px;
+}
+
+/* end cards style  */
+
+/* start doctors section  */
+
+.doctors {
+    max-width: 70%;
+}
+
+/* end doctors section  */
+
+
+/* start footer section  */
+.footer {
+    margin-top: 120px;
+    height: 400px;
+    padding-top: 70px;
+    background-color: #0f7b65;
+    border-radius: 200px 200px 0px 0px;
+}
+
+.footer h6 {
+    font-size: 16px;
+    text-transform: capitalize;
+    line-height: 1.5;
+}
+
+.footer h3 {
+    color: #f48e76;
+}
+
+.footer ul li {
+    text-indent: -35px;
+}
+
+
+/* end footer section  */
